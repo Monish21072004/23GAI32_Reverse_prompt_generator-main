@@ -1,0 +1,41 @@
+MINUTES OF MEETING
+(REVIEW -3)
+
+Date: May 6th , 2024
+Meeting Time: 3:15 PM - 3:35 PM
+Meeting Platform: Microsoft Teams
+Attendees:
+- Aman Verma
+- Ayushman Datta
+- Meghraj Patil
+- Monish V.
+- Professor Dr. M. Suchithra
+- Samsung Mentor Mr. Tushar Madaan
+- Samsung Mentor Mr. Syed Mugais Hazim
+- Samsung Mentor Mr. Pranal Prasad Dongare
+Agenda:
+1. Review of Achieved Key Performance Indicators (KPIs)
+2. Progress Comparison with Last Month
+3. Discussion on Web Hosting and Additional Features
+4. Next Steps and Action Items
+Meeting Summary:
+The meeting commenced promptly at 3:15 PM on Microsoft Teams with all attendees present. Professor Dr. M. Suchithra initiated the discussion by congratulating the team on achieving the set Key Performance Indicators (KPIs).
+1. Review of Achieved Key Performance Indicators (KPIs):
+   - The team collectively presented the achievement of both KPIs:
+     - The model now generates prompts within 5 seconds, meeting the target output time.
+     - The accuracy of the model has significantly improved, surpassing the initial accuracy rate.
+2. Progress Comparison with Last Month:
+   - Our Team provided an overview of the progress made since the last meeting, highlighting the team's accomplishment of fine-tuning the model.
+   - The team transitioned from using the CLIP interrogator to utilizing the BLIP LARGE model, resulting in enhanced performance and efficiency.
+3. Discussion on Web Hosting and Additional Features:
+   - The team discussed plans to host the Reverse Prompt Generator model on the web.
+   - Our Team proposed adding additional features such as Natural Language Processing (NLP) capabilities to enhance the model's functionality.
+4. Next Steps and Action Items:
+   - Team members agreed to prioritize web hosting and integrating NLP features into the model.
+   - Deadlines for completing web hosting and adding NLP features were discussed and finalized.
+   - The team agreed to reconvene for the next meeting in June, 2024, to review progress and discuss further advancements.
+Action Items:
+- Aman Verma, Ayushman Datta, Meghraj Patil, Monish V. to lead the implementation of web hosting and NLP integration.
+- Deadlines for completing web hosting and adding NLP features to be adhered to before the next month's meeting.
+- All team members to continue collaborating and providing updates on progress via communication channels.
+Meeting Adjournment: The meeting concluded on a positive note, with the team expressing confidence in achieving the upcoming milestones and further enhancing the Reverse Prompt Generator model.
